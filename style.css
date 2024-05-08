@@ -103,6 +103,7 @@ button {
 .email-signup input {
    padding: 15px;
    width: 60%;
+    background: rgba(0, 0, 0, 0.5);
 }
 
 .email-signup button {
